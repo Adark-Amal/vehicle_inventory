@@ -1,0 +1,12 @@
+# Database configuration
+DB_USER=root
+DB_PASSWORD=password
+DB_HOST=localhost
+DB_PORT=3306
+DB_NAME=north_avenue
+
+# Secret key for session management
+SECRET_KEY=3afa1991765c20ae45d9e4920bf26414  
+
+# Environment setting
+ENV=development
