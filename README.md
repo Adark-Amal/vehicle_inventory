@@ -127,4 +127,4 @@ Prerequisites
 ```
 
 ### License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/Adark-Amal/vehicle_inventory/blob/main/LICENSE).
